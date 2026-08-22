@@ -1,6 +1,7 @@
 # Hi 👋, I'm Fathan
 
 ### A Vocational High School Student
+![Stats GitHub Kamu](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU)
 
 - 🌱 I'm currently learning **AI/ML, Cyber Securitty**
 
@@ -10,8 +11,7 @@
 
 - 📫 How to reach me **fathan.pageraji@gmail.com**
 
-- ⚡ Fun fact **I like anime
-I like playing game**
+- ⚡ Fun fact **I like anime, I like playing game**
 
 - 👨‍💻 All of my projects are available at **[https://akaru.my.id](https://akaru.my.id)**
 
