@@ -1,7 +1,7 @@
 # Hi 👋, I'm Fathan
 
 ### A Vocational High School Student
-![Stats GitHub Kamu](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU)
+![Stats GitHub](https://github-stats-extended.vercel.app/api?username=Konatsu13&show_icons=true&theme=radial)
 
 - 🌱 I'm currently learning **AI/ML, Cyber Securitty**
 
