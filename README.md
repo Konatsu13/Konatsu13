@@ -20,7 +20,7 @@
 - 🤝 Looking for help with **Learning System Design**
 - 💬 Ask me about **UI/UX Design, HTML/CSS, and AI Agents**
 - ⚡ Fun fact: **I like anime and playing games 🎮**
-- 👨‍💻 Portfolio & Projects: **[akaru.my.id](https://akaru.my.id)**
+- 👨‍💻 Portfolio & Projects: **[akaru.my.id](https://portfolio.akaru.my.id)**
 - 📫 How to reach me: **fathan.pageraji@gmail.com**
 
 ---
