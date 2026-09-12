@@ -74,7 +74,7 @@
   <a href="https://www.kaggle.com/fathanathayadimyati" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.reddit.com/user/konatsu.dev" target="_blank">
+  <a href="https://www.reddit.com/user/konatsudev" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 </p>
