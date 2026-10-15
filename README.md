@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Purwokerto%2C%20Indonesia-1f6feb?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-%20Indonesia-1f6feb?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-8b5cf6?style=flat-square" alt="Focus" />
   <img src="https://komarev.com/ghpvc/?username=Konatsu13&style=flat-square&color=1f6feb" alt="Profile views" />
 </p>
