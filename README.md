@@ -1,88 +1,95 @@
-<h1 align="center">FATHAN ATHAYA DIMYATI</h1>
-<p align="center">
-  🎓 Vocational High School Student
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-%20Indonesia-1f6feb?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-8b5cf6?style=flat-square" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=Konatsu13&style=flat-square&color=1f6feb" alt="Profile views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00A6F7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;AI%2FML+Engineering;Android+Developer" alt="Typing SVG" />
-</p>
+# Fathan Athaya Dimyati
 
----
+**Full-Stack Developer · AI Engineering Enthusiast**
 
-### 🚀 About Me
-- 🌱 Currently learning **AI/ML & Cyber Security**
-- 🤝 Looking for help with **Learning System Design**
-- 💬 Ask me about **UI/UX Design, HTML/CSS, and AI Agents**
-- ⚡ Fun fact: **I like anime and playing games 🎮**
-- 👨‍💻 Portfolio & Projects: **[portfolio.akaru.my.id](https://portfolio.akaru.my.id)**
-- 📫 How to reach me: **fathan.pageraji@gmail.com**
+Building useful digital products, exploring intelligent systems, and learning by shipping.
+
+<br />
+
+<a href="https://portfolio.akaru.my.id">Portfolio</a> ·
+<a href="mailto:fathan.pageraji@gmail.com">Email</a> ·
+<a href="https://github.com/Konatsu13">GitHub</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Indonesia-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Focus-AI%20Engineering-0D1117?style=flat-square&logo=openai&logoColor=58A6FF" />
+<img src="https://komarev.com/ghpvc/?username=Konatsu13&style=flat-square&color=0D1117&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+## About
+
+I'm a vocational high school student interested in software engineering and the intersection of web development and AI.
+
+I enjoy turning ideas into practical products—from designing user experiences to building full-stack applications and experimenting with AI-powered workflows.
+
+- **Currently exploring:** AI/ML, AI agents, local LLMs, and cybersecurity
+- **Building with:** TypeScript, JavaScript, Python, and modern web technologies
+- **Interested in:** System design, product development, and UI/UX
+- **Beyond code:** Anime, games, and discovering new technologies
+
+## Selected Work
+
+<div align="center">
+
+<a href="https://muaraku.id">
+  <img src="https://img.shields.io/badge/MuaraKu-Lost%20%26%20Found%20Platform-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="MuaraKu" />
+</a>
+
+</div>
+
+**MuaraKu** — An AI-assisted lost-and-found platform designed to connect people who lose items with those who find them, supported by a trusted community.
+
+Explore more of my work on <a href="https://github.com/Konatsu13?tab=repositories">GitHub repositories</a> or visit my <a href="https://portfolio.akaru.my.id">portfolio</a>.
+
+## Tech Stack
 
 **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,kotlin,cs,html,css" alt="Languages" />
 </p>
 
-**Frameworks & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,tailwind" alt="Frameworks" />
 </p>
 
+**Tools & Platforms**
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Konatsu13&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Konatsu13&layout=compact&theme=tokyonight&card_width=400&height=165" width="49%" alt="Top Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,supabase,ollama,vscode" alt="Tools" />
 </p>
 
----
+## GitHub Overview
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/fathan-athaya-dimyati" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/konatsu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/konatsu_developer" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://x.com/Konatsu31" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  <a href="https://www.kaggle.com/fathanathayadimyati" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.reddit.com/user/konatsudev" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Konatsu13&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Konatsu13&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <br />
+  <img width="95%" src="https://streak-stats.demolab.com?user=Konatsu13&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
----
+## Connect
 
-<p align="center">
-  <sub><i>Thank you for visiting my profile! 😊</i></sub>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/fathan-athaya-dimyati"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://instagram.com/konatsu.dev"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="https://x.com/Konatsu31"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.kaggle.com/fathanathayadimyati"><img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle" /></a>
+<a href="https://www.reddit.com/user/konatsudev"><img src="https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit" /></a>
+<a href="https://discord.gg/konatsu_developer"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+
+<br />
+
+*Always learning. Always building.*
+
+</div>
